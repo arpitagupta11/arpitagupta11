@@ -15,13 +15,6 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-gupta-b74958237?)
 
 
-
-### Working On 🚀:
-- Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
-- [Fullstack Web3 Development Course](https://github.com/sammorozov/full_course_crypto_32)
-- [Ethernaut Tasks](https://github.com/sammorozov/ethernaut_source_tasks)
-- Various bots and scripts, results showcased [here](https://t.me/from_the_teapot_to_the_investor)
-
 ---
 
 ## Languages and Tools 🛠️
