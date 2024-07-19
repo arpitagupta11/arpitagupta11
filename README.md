@@ -15,9 +15,6 @@ Visit my portfolio for a detailed overview of my projects and skills: [![Portfol
 - Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-gupta-b74958237?)
 
 
-Follow me on Twitter for data science insights, and a peek into the world of machine learning. Let's explore the possibilities together!  
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kartikkbishnoi.svg?style=social&label=Follow%20%40Kartikkbishnoi)](https://twitter.com/Kartikkbishnoi)  
-Connect with me on LinkedIn: 
 
 ### Working On 🚀:
 - Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
