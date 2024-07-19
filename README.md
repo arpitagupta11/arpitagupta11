@@ -6,11 +6,17 @@ I'm a passionate data scientist with expertise in Python, AI, and machine learni
 - 💻 Actively practicing and refining coding skills, particularly in implementing machine learning algorithms and neural networks.
 - 📚 Engaged in continuous learning on platforms like LeetCode to enhance problem-solving abilities.
 
+Visit my portfolio for a detailed overview of my projects and skills: [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=github)](https://arpitagupta11.github.io/)
+
+
 ### Social Media 📡:
 - Join me on [Instagram](https://www.instagram.com/arpita._.gupta/)!
-- Join me on [LinkedIn](https://www.linkedin.com/in/arpita-gupta-b74958237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)!
- 
+- Join me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpita-gupta-b74958237?)
 
+
+Follow me on Twitter for data science insights, and a peek into the world of machine learning. Let's explore the possibilities together!  
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kartikkbishnoi.svg?style=social&label=Follow%20%40Kartikkbishnoi)](https://twitter.com/Kartikkbishnoi)  
+Connect with me on LinkedIn: 
 
 ### Working On 🚀:
 - Learning [GO](https://github.com/sammorozov/go_ilya_kruk)
